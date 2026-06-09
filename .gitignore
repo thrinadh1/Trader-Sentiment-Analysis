@@ -22,5 +22,3 @@ Thumbs.db
 # VS Code
 .vscode/
 
-# Data Files (Optional)
-data/*.csv
