@@ -1,0 +1,19 @@
+TRADER PERFORMANCE ANALYSIS REPORT
+
+Total Trades : 211224
+
+Average PnL : 48.75
+
+Win Rate : 41.13%
+
+
+Average PnL By Sentiment
+classification
+Unknown    48.749001
+Name: Closed PnL, dtype: float64
+
+
+Win Rate By Sentiment
+classification
+Unknown    41.126482
+Name: Trade_Result, dtype: float64
